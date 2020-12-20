@@ -1,0 +1,7 @@
+{
+  "name": "troy18",
+  "version": "1.0.0",
+  "bin": {
+    "troy18": "index.js"
+  }
+}
